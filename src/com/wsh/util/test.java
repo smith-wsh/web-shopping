@@ -1,8 +1,8 @@
 package com.wsh.util;
 
-import com.wsh.Implements.GoodsImplement;
-import com.wsh.bean.Goods;
-import com.wsh.factory.DBImplements;
+//import com.wsh.Implements.GoodsImplement;
+//import com.wsh.bean.Goods;
+//import com.wsh.factory.DBImplements;
 
 public class test {
 	
@@ -32,7 +32,7 @@ public class test {
 		 * described
 		 */
 
-		GoodsImplement dao = DBImplements.getGoodsServiceInstance();
+//		GoodsImplement dao = DBImplements.getGoodsServiceInstance();
 		
 //		int ISBN = 154643524;
 //		String gname = "Ëã·¨Ê±´ú";
